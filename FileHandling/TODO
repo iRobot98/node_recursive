@@ -1,0 +1,15 @@
+1. Outward Program API
+2. File I/O:
+    (open and use Golang partner process)
+    - open file handle,
+    - close file handle,
+    - edit file
+    - live reload/recovery
+    - delete file 
+3. Multithreading:
+    (Golang co-code: efficient subroutines)
+    - multithread file server 
+        -> open multiple files at once and handle separately (UUID? or just counter?)
+    - multithreaded word-search engine
+        -> process file data rapidly
+

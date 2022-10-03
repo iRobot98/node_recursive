@@ -1,0 +1,17 @@
+{
+  "name": "node_recursive",
+  "version": "1.0.0",
+  "description": "Having fun with recursive data structures (practice for DBMS)",
+  "main": "App",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "recursive",
+    "data",
+    "API",
+    "CQRS"
+  ],
+  "author": "Judah O. Matende",
+  "license": "ISC"
+}

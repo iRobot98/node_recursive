@@ -1,0 +1,20 @@
+# Node Recursive
+
+The purpose of this project:
+'''
+1. Practice Programming Principles,
+2. Test out different technical ideas,
+3. Refine Implementation of tested ideas,
+4. Develop a DBMS system around Node Chrome8 VM, Golang, and Windows Shell (offer a CLI interface, and ReactApp interface)
+'''
+
+# Base Ideas
+There are a list of target ideas/principles:    
+'''
+1. Event-Driven Architecture : 
+    - Event-logging, Event-sourcing, 
+2. Command-Query-Responsibility-Segregation,
+3. Onion Security Data Model,
+4. DRY, Modular Code,
+5. Multithreading -> as simple a monolith as functional, that can be spun up in different co-operating instances
+'''

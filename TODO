@@ -1,0 +1,13 @@
+A. File Handling:
+    1. Set up file I/O,
+    2. Set up CRUD API,
+
+B. Data Management System:
+    1. Set up logging: data, error, command, history
+    2. Set up data types system,
+    3. JSON Data storage,
+    4. Set up Query system,
+
+C. Event-Driven System:
+    1. In-memory Database: Event-sourcing,
+    2. Command-Query-Responsibility-Segregation: Event-logging,
