@@ -1,0 +1,19 @@
+{
+  "name": "filehandling",
+  "version": "1.0.0",
+  "description": "Base data-manipulation layer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base",
+    "data-manipulation",
+    "golang-interface",
+    "shell",
+    "interface",
+    "containerisation"
+  ],
+  "author": "Judah O Matende",
+  "license": "ISC"
+}
